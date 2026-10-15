@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyter-server/jupyter-scheduler/commit/955883c1b33a7c366df0e3e7d9a9523dff48c9b4",
       "git:hexsha": "955883c1b33a7c366df0e3e7d9a9523dff48c9b4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T14:09:31.391844+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyter-server/jupyter-scheduler/commit/fd19a5938aa0feb326497ebf5792c947057315dc",
