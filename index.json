@@ -1,0 +1,11 @@
+{
+  "org": "jupyter-server",
+  "repo": "jupyter-scheduler",
+  "versions": [
+    {
+      "commit": "955883c1b33a7c366df0e3e7d9a9523dff48c9b4",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:09:31.392553+00:00"
+    }
+  ]
+}
